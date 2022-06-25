@@ -11,7 +11,7 @@ See [Parallel Neural Local Lossless Compression
 This version significantly improves the compression and decompression speed.
 
 ### Updates:
-1. We change the Arithmetic coding to ANS coding
+1. We change the Arithmetic coding to ANS coding.
 2. We propose ShearLoC, which has more efficient memory access.
 
 *Note: The corresponding ArXiv paper will be updated on 2022-06-28.*
