@@ -2,9 +2,10 @@
 
 This is a demo to do lossless compression with parrallel NeLLoC.
 
-See https://arxiv.org/abs/2109.02639 for an introduction of the vanilla NeLLoC.
+See [on the out-of-distribution generalization of probabilistic image modelling](https://arxiv.org/abs/2109.02639) for an introduction of the vanilla NeLLoC.
 
-See https://arxiv.org/abs/2201.05213 for the details of the parrallel NeLLoC.
+See [Parallel Neural Local Lossless Compression
+](https://arxiv.org/abs/2201.05213) for the details of the parrallel NeLLoC.
 
 ## 2022-06-25
 This version significantly improves the compression and decompression speed.
