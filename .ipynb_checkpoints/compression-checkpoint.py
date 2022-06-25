@@ -121,6 +121,7 @@ def ac_compression_parallel(model,img,time_index,k=5):
                     high = old_low + _range * tensor2decimal(cdf_plus_table[int(patch[0,c,mid,mid]*255)])
                     _range = high - low
                     old_low  = low
+    print(low,high)
     code=range_2_bin(low,high)
     return code
 
