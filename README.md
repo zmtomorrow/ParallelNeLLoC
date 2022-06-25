@@ -2,6 +2,13 @@
 
 This is a demo to do lossless compression with parrallel NeLLoC.
 
-See https://arxiv.org/pdf/2201.05213.pdf for the details of the method.
+See https://arxiv.org/abs/2109.02639 for an introduction of the vanilla NeLLoC.
 
-There will be a big improvement of this method which will be released early next month!
+See https://arxiv.org/abs/2201.05213 for the details of the parrallel NeLLoC implemented in this repo.
+
+## 2022-06-25
+This version significantly improves the compression and decompression speed.
+
+### Updates:
+1. We change the Arithmetic coding to ANS coding
+2. We propose ShearLoC, which has more efficient memory access.
