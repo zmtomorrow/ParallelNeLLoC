@@ -12,6 +12,11 @@ This version significantly improves the compression and decompression speed.
 
 ### Updates:
 1. We change the Arithmetic coding to ANS coding.
-2. We propose ShearLoC, which has more efficient memory access.
+2. We propose **Shear**ed **Lo**cal Lossless **C**ompression (**ShearLoC**), which allows more efficient memory access.
 
-*Note: The corresponding ArXiv paper will be updated on 2022-06-28.*
+The ShearLoC model is inspired by an anamorphic skull
+ appears in the oil painting "[The Ambassadors](https://en.wikipedia.org/wiki/The_Ambassadors_(Holbein))" by [Hans Holbein the Younger](https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger).
+ 
+ ![The Ambassadors](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg/680px-Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg)
+
+
